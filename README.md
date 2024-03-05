@@ -1,3 +1,6 @@
+# Task Form
+
+![Task Form image](https://github.com/NihalJadhav9291/Internship-/blob/Task-Form/taskform.png)
 # ITask.tsx
 ```JavaScript
 export interface IAddTaskBody {
